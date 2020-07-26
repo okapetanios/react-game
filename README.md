@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Game Engine Template
 
 This repo is designed to be a sort of game kickstarter. It contains some general systems and components that should be somewhat useful when developing a variety of games using [React Game Engine](https://github.com/bberak/react-game-engine).
@@ -115,3 +116,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# react-game
+testing out react game engine
+>>>>>>> 46b313b382befcc8a9e9d7421e5cea3fcaabbd47
